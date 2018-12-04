@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidArchitecture</string>
+    <string name="input_hint">请输入</string>
+    <string name="confirm">确认</string>
+</resources>
